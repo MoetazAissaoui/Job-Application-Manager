@@ -1,7 +1,7 @@
 
 * Usage:
 
-	`python3 lunch.py`
+	`python3 launch.py`
 
 > Admin Panel password : admin
 Job Seeker Panel Password : jobseeker
