@@ -1,4 +1,4 @@
-#**Job Seeking **
+#Job Seeking 
 
 * Usage:
 
