@@ -27,4 +27,4 @@ Job Seeker Panel Password : jobseeker
 ------------
 
 
-##### Data is Manipulated And Stored in TXT Files.Data is Manipulated And Stored in TXT Files.
+##### Data is Manipulated And Stored in TXT Files
